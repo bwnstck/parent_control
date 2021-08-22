@@ -14,5 +14,10 @@
       "matches": ["*://*/*"],
       "js": ["parentControl.js"]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "benjamin@weinstock.it"
+    }
+  }
 }
